@@ -2,4 +2,4 @@
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning Data Structures and React
 - 💞️ I’m looking to collaborate on learning React
-- 📫 Reach me @ sarathrajahbk@gmail.com
+- 📫 Reach me at sarathrajahbk@gmail.com
